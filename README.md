@@ -1,5 +1,10 @@
-### Hi there 👋
+### Hi 👋
 
+I'm a Full Stack Developer who likes to code in `JavaScript`, `TypeScript`, `MERN` and Tailwind CSS.
+
+I'm currently mastering my abilities at `Angular` and `Nest JS`.
+
+You can reach me by my email: `angelaltarodri@gmail.com` or via whatsapp `(+51) 944237085`
 <!--
 **angelaltarodri/angelaltarodri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
