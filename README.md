@@ -1,8 +1,8 @@
 ### Hi 👋
 
-I'm a Full Stack Developer who likes to code in `JavaScript`, `TypeScript`, `MERN` and Tailwind CSS.
+I'm a Full Stack Developer who likes to code in `TypeScript`, `Angular, `Nest`, `React`, `Express` along with `Mongoose` and `TypeORM/Postgres`.
 
-I'm currently mastering my abilities at `Angular` and `Nest JS`.
+I'm currently mastering my abilities at `.NET` and `NodeJS`.
 
 You can reach me by my email: `angelaltarodri@gmail.com` or via whatsapp `(+51) 944237085`
 <!--
