@@ -1,6 +1,6 @@
 ### Hi 👋
 
-I'm a Full Stack Developer who likes to code in `TypeScript`, `Angular, `Nest`, `React`, `Express` along with `Mongoose` and `TypeORM/Postgres`.
+I'm a Full Stack Developer who likes to code in `TypeScript`, `Angular`, `Nest`, `React`, `Express` along with `Mongoose` and `TypeORM/Postgres`.
 
 I'm currently mastering my abilities at `.NET` and `NodeJS`.
 
